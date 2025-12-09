@@ -1,0 +1,4 @@
+[submodule "ggml"]
+	path = ggml
+	url = https://github.com/Himanshu040604/ggml.git
+	branch = kokoro-build
