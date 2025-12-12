@@ -2,6 +2,10 @@
 
 A native C++ inference engine only for the [Kokoro TTS](https://huggingface.co/hexgrad/Kokoro-82M) text-to-speech model, using the [GGML tensor library](https://github.com/ggerganov/ggml).
 
+### Demo
+
+https://github.com/Himanshu040604/KOKORO-GPT2/assets/demo.mp4
+
 ### Overview
 
 This repository implements the **Kokoro 82M TTS model** in a **GPT-2 style architecture format**, providing a fast, portable, and lightweight text-to-speech solution. The engine converts text to natural-sounding speech without requiring Python or heavy dependencies.
